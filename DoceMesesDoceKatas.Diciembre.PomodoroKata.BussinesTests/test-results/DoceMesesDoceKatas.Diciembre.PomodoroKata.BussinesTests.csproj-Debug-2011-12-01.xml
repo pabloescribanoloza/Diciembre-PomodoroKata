@@ -61,6 +61,14 @@
       <TotalIgnored>0</TotalIgnored>
       <Time />
     </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-01T11:41:28</TestDate>
+      <Status>Success</Status>
+      <TotalFailures>0</TotalFailures>
+      <TotalSuccess>4</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+    </UnitTestResult>
   </Results>
   <Tests>
     <TestRecord Name="DoceMesesDoceKatas">
@@ -122,6 +130,14 @@
           <Status>Success</Status>
           <TotalFailures>0</TotalFailures>
           <TotalSuccess>3</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-01T11:41:28</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>4</TotalSuccess>
           <TotalIgnored>0</TotalIgnored>
           <Time />
         </UnitTestResult>
@@ -189,6 +205,14 @@
               <TotalIgnored>0</TotalIgnored>
               <Time />
             </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-01T11:41:28</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>4</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+            </UnitTestResult>
           </Results>
           <Tests>
             <TestRecord Name="PomodoroKata">
@@ -250,6 +274,14 @@
                   <Status>Success</Status>
                   <TotalFailures>0</TotalFailures>
                   <TotalSuccess>3</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-01T11:41:28</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>4</TotalSuccess>
                   <TotalIgnored>0</TotalIgnored>
                   <Time />
                 </UnitTestResult>
@@ -317,6 +349,14 @@
                       <TotalIgnored>0</TotalIgnored>
                       <Time />
                     </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-01T11:41:28</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>4</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                    </UnitTestResult>
                   </Results>
                   <Tests>
                     <TestRecord Name="PomodoroTest">
@@ -378,6 +418,14 @@
                           <Status>Success</Status>
                           <TotalFailures>0</TotalFailures>
                           <TotalSuccess>3</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                        </UnitTestResult>
+                        <UnitTestResult>
+                          <TestDate>2011-12-01T11:41:28</TestDate>
+                          <Status>Success</Status>
+                          <TotalFailures>0</TotalFailures>
+                          <TotalSuccess>4</TotalSuccess>
                           <TotalIgnored>0</TotalIgnored>
                           <Time />
                         </UnitTestResult>
@@ -479,6 +527,19 @@ Tiempo de ejecución: 0,01 ms</Message>
                               <ConsoleOutput />
                               <ConsoleError />
                             </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-12-01T11:41:28</TestDate>
+                              <Status>Success</Status>
+                              <TotalFailures>0</TotalFailures>
+                              <TotalSuccess>1</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
                           </Results>
                         </TestRecord>
                         <TestRecord Name="UnPomodoroSePuedeCrearDeCualquierDuracion">
@@ -522,6 +583,19 @@ Tiempo de ejecución: 0,00 ms</Message>
                               <ConsoleOutput />
                               <ConsoleError />
                             </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-12-01T11:41:28</TestDate>
+                              <Status>Success</Status>
+                              <TotalFailures>0</TotalFailures>
+                              <TotalSuccess>1</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
                           </Results>
                         </TestRecord>
                         <TestRecord Name="UnPomodoroRecienCreadoEstaParado">
@@ -550,6 +624,36 @@ Tiempo de ejecución: 0,00 ms</Message>
                               <Message>Prueba satisfactoria
 
 Tiempo de ejecución: 0,00 ms</Message>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-12-01T11:41:28</TestDate>
+                              <Status>Success</Status>
+                              <TotalFailures>0</TotalFailures>
+                              <TotalSuccess>1</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,00 ms</Message>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                          </Results>
+                        </TestRecord>
+                        <TestRecord Name="UnPomodoroAlArrancarComienzaLaCuentaAtras">
+                          <Results>
+                            <UnitTestResult>
+                              <TestDate>2011-12-01T11:41:28</TestDate>
+                              <Status>Success</Status>
+                              <TotalFailures>0</TotalFailures>
+                              <TotalSuccess>1</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>Prueba satisfactoria
+
+Tiempo de ejecución: 0,01 ms</Message>
                               <ConsoleOutput />
                               <ConsoleError />
                             </UnitTestResult>

@@ -41,9 +41,9 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests
 		{
 			var pomodoro = new Pomodoro();
 			
-			pomodoro.Arracar();
+			pomodoro.Arrancar();
 			
-			Assert.IsTrue(pomodoro.Estados.CuentaAtras);
+			Assert.IsTrue(pomodoro.Estados.cuentaAtras);
 			
 			
 		}
