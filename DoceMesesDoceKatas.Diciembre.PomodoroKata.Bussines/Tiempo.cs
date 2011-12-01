@@ -9,6 +9,11 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines
 		public Tiempo ()
 		{
 		}
+		
+		public Tiempo(int tiempoEnMinutos)
+		{
+			this.Minutos = tiempoEnMinutos;
+		}
 	}
 }
 

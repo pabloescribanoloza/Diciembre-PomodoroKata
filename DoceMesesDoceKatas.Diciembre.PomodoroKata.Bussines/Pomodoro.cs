@@ -11,6 +11,11 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines
 			this.TiempoTotal = new Tiempo();
 			this.TiempoTotal.Minutos = 25;
 		}
+		
+		public Pomodoro(Tiempo tiempoEnMinutos)
+		{
+			this.TiempoTotal = tiempoEnMinutos;
+		}
 	}
 }
 
