@@ -19,9 +19,17 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines
 			this.TiempoTotal = tiempoEnMinutos;
 		}
 		
+		
+		
 		public void Arrancar()
 		{
 			Estados.comienzaCuentaAtras();
+		}
+		
+		
+		public void Finalizar()
+		{
+			this.Estados.finalizar();
 		}
 	}
 }
