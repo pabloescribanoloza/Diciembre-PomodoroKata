@@ -21,11 +21,8 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests
 			var pomodoro30Minutos = new Pomodoro(new Tiempo(30));
 			var pomodoro10Minutos = new Pomodoro(new Tiempo(10));
 			
-			
-			
 			Assert.AreEqual(30,pomodoro30Minutos.TiempoTotal.Minutos);
-			Assert.AreEqual(10,pomodoro10Minutos.TiempoTotal.Minutos);
-			
+			Assert.AreEqual(10,pomodoro10Minutos.TiempoTotal.Minutos);	
 		}
 		
 		[Test()]
