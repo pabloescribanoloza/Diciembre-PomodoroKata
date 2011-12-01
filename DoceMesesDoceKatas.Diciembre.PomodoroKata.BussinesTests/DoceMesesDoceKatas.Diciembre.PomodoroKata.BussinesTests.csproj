@@ -52,6 +52,13 @@
   <ItemGroup>
     <Compile Include="MyClass.cs" />
     <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="PomodorTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines\DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines.csproj">
+      <Project>{1AECB652-BF20-4FB7-9C61-686FC244FEC1}</Project>
+      <Name>DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
