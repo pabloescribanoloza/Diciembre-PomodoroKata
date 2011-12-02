@@ -52,6 +52,17 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests
 			
 			Assert.IsTrue(!pomodoro.Estados.estaFinalizado);
 		}
+		
+		[Test()]
+		public void UnPomodoroFinalizaCuandoSeAcabaSuTiempo()
+		{
+			var pomodoro = new Pomodoro();
+			
+			pomodoro.Arrancar();
+			pomodoro.Finalizar();
+			
+			Assert.AreEqual(0,pomodoro.TiempoRestante);
+		}
 	}
 }
 
