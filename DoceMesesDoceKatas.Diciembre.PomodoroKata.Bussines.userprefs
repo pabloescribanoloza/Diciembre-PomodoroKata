@@ -1,18 +1,22 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests/PomodoroTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Downloads/SE32SourceCode/Logic/DetectEncoding/EncodingTools.cs">
     <Files>
-      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests/PomodoroTest.cs" Line="57" Column="15" />
-      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines/Pomodoro.cs" Line="1" Column="1" />
+      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests/PomodoroTest.cs" Line="80" Column="22" />
+      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines/Pomodoro.cs" Line="38" Column="40" />
       <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines/Tiempo.cs" Line="1" Column="1" />
-      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines/Estado.cs" Line="1" Column="1" />
+      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines/Estado.cs" Line="15" Column="34" />
+      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests/InterrupcionTests.cs" Line="1" Column="1" />
+      <File FileName="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines/Interrupcion.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/SE32SourceCode/Logic/DetectEncoding/EncodingTools.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
+          <Node name="Solution Items" expanded="True" />
           <Node name="DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines" expanded="True" />
           <Node name="DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests" expanded="True">
-            <Node name="AssemblyInfo.cs" selected="True" />
+            <Node name="PomodoroTest.cs" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -23,19 +27,7 @@
         <State />
       </Pad>
       <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State expanded="True" selected="True">
-          <Node name="DoceMesesDoceKatas.Diciembre.PomodoroKata.BussinesTests" expanded="True">
-            <Node name="DoceMesesDoceKatas" expanded="True">
-              <Node name="Diciembre" expanded="True">
-                <Node name="PomodoroKata" expanded="True">
-                  <Node name="BussinesTests" expanded="True">
-                    <Node name="PomodoroTest" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

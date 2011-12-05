@@ -4,6 +4,7 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines
 {
 	public class Estado
 	{
+		public Boolean estaInterrumpido;
 		public Boolean estaParado;
 		public Boolean cuentaAtras;
 		public Boolean estaFinalizado;
@@ -11,6 +12,7 @@ namespace DoceMesesDoceKatas.Diciembre.PomodoroKata.Bussines
 		public Estado ()
 		{
 			this.estaParado = true;
+			this.estaInterrumpido = false;
 			this.cuentaAtras = false;
 			this.estaFinalizado = false;
 		}
